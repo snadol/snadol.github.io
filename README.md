@@ -1,2 +1,2 @@
 # snadol.github.io
-Chatroom
+Simple games site for school when bored.
